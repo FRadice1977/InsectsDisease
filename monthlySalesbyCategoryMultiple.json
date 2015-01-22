@@ -6,51 +6,51 @@
 
       [{
         "month":20130101,
-        "Mosquito":38
+        "Species":Moschito
       },
       {
         "month":20130201,
-        "Tick":35
+        "Species":Tick
       },
       {
         "month":20130301,
-        "Lice":41
+        "Species":Lice
       },
       {
         "month":20130401,
-        "Fly":55
+        "Species":Fly
       },
       {
         "month":20130501,
-        "Culicoid":58
+        "Species":Cluicoid
       },
       {
         "month":20130601,
-        "Sandfly":66
+        "Species":Sandfly
       },
       {
         "month":20130701,
-        "Tick":74
+        "Species":Tick
       },
       {
         "month":20130801,
-        "Beetle":78
+        "Species":Beetle 
       },
       {
         "month":20130901,
-        "FireFly":38
+        "Species":Firefly
       },
       {
         "month":20131001,
-        "Spider":30
+        "Species":Spider
       },
       {
         "month":20131101,
-        "Ant":26
+        "Species":Ant
       },
       {
         "month":20131201,
-        "Roach":29
+        "Species":Roach
       }
     ]
   },
@@ -61,51 +61,51 @@
 
       [{
         "month":20130101,
-        "Horse":54
+        "Amount":Horse, 44
       },
       {
         "month":20130201,
-        "Babesiosis":66
+        "Amount":Babesiosis, 66
       },
       {
         "month":20130301,
-        "Bluetounge":77
+        "Amount":Bluetounge, 55
       },
       {
         "month":20130401,
-        "Chagas":70
+        "Amount":Chagas, 22
       },
       {
         "month":20130501,
-        "Tick-borne":60
+        "Amount":Tickborne, 44
       },
       {
         "month":20130601,
-        "Heatland Virus":63
+        "Amount":Heart Virus, 55
       },
       {
         "month":20130701,
-        "Leishmaniasis":55
+        "Amount":Leishmaniasis,44
       },
       {
         "month":20130801,
-        "Lyme":47
+        "Amount":Lyme, 66
       },
       {
         "month":20130901,
-        "Malaria":55
+        "Amount":Malaria, 55
       },
       {
         "month":20131001,
-        "Plague":30
+        "Amount":Plaugue, 30
       },
       {
         "month":20131101,
-        "Pogosta":22
+        "Amount":Pogosta, 33
       },
       {
         "month":20131201,
-        "Boutonneuse Fever":77
+        "Amount":Boutonneuse, 77
       }
     ]
   }
