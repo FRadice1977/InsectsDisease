@@ -1,112 +1,112 @@
 { "contents": [
   {
-    "category": "Insects",
-    "region": "Africa",
-    "Monthly Changes":
+    "category": "Rain",
+    "region": "UK",
+    "monthyrain2013":
 
       [{
         "month":20130101,
-        "Species":Moschito
+        "sales":38
       },
       {
         "month":20130201,
-        "Species":Tick
+        "sales":35
       },
       {
         "month":20130301,
-        "Species":Lice
+        "sales":41
       },
       {
         "month":20130401,
-        "Species":Fly
+        "sales":55
       },
       {
         "month":20130501,
-        "Species":Cluicoid
+        "sales":58
       },
       {
         "month":20130601,
-        "Species":Sandfly
+        "sales":66
       },
       {
         "month":20130701,
-        "Species":Tick
+        "sales":74
       },
       {
         "month":20130801,
-        "Species":Beetle 
+        "sales":78
       },
       {
         "month":20130901,
-        "Species":Firefly
+        "sales":38
       },
       {
         "month":20131001,
-        "Species":Spider
+        "sales":30
       },
       {
         "month":20131101,
-        "Species":Ant
+        "sales":26
       },
       {
         "month":20131201,
-        "Species":Roach
+        "sales":29
       }
     ]
   },
   {
-    "category": "Geo Location",
-    "region": "GMT",
-    "Disease Increase":
+    "category": "Sun",
+    "region": "UK",
+    "sunnydays2012":
 
       [{
         "month":20130101,
-        "Amount":Horse, 44
+        "sales":54
       },
       {
         "month":20130201,
-        "Amount":Babesiosis, 66
+        "sales":66
       },
       {
         "month":20130301,
-        "Amount":Bluetounge, 55
+        "sales":77
       },
       {
         "month":20130401,
-        "Amount":Chagas, 22
+        "sales":70
       },
       {
         "month":20130501,
-        "Amount":Tickborne, 44
+        "sales":60
       },
       {
         "month":20130601,
-        "Amount":Heart Virus, 55
+        "sales":63
       },
       {
         "month":20130701,
-        "Amount":Leishmaniasis,44
+        "sales":55
       },
       {
         "month":20130801,
-        "Amount":Lyme, 66
+        "sales":47
       },
       {
         "month":20130901,
-        "Amount":Malaria, 55
+        "sales":55
       },
       {
         "month":20131001,
-        "Amount":Plaugue, 30
+        "sales":30
       },
       {
         "month":20131101,
-        "Amount":Pogosta, 33
+        "sales":22
       },
       {
         "month":20131201,
-        "Amount":Boutonneuse, 77
+        "sales":77
       }
     ]
   }
-]} 
+]}
