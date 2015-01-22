@@ -1,8 +1,9 @@
-{ "contents": [
+
+  { "contents": [
   {
-    "category": "Rain",
-    "region": "UK",
-    "monthyrain2013":
+    "category": "Furniture",
+    "region": "West",
+    "monthlySales":
 
       [{
         "month":20130101,
@@ -55,9 +56,9 @@
     ]
   },
   {
-    "category": "Sun",
-    "region": "UK",
-    "sunnydays2012":
+    "category": "Technology",
+    "region": "West",
+    "monthlySales":
 
       [{
         "month":20130101,
