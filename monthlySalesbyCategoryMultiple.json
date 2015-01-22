@@ -1,111 +1,111 @@
 { "contents": [
   {
-    "category": "Insect",
+    "category": "Insects",
     "region": "Africa",
-    "Disease":
+    "Monthly Changes":
 
       [{
         "month":20130101,
-        "Insect":Culicoid midge
+        "Mosquito":38
       },
       {
-        "month":Various assassin bugs of subfamily Triatominae,
-        "sales":35
+        "month":20130201,
+        "Tick":35
       },
       {
-        "month":Mosquito,
-        "sales":41
+        "month":20130301,
+        "Lice":41
       },
       {
-        "month":Tick,
-        "sales":55
+        "month":20130401,
+        "Fly":55
       },
       {
-        "month":Tick,
-        "sales":58
+        "month":20130501,
+        "Culicoid":58
       },
       {
-        "month":Sandfly,
-        "sales":66
+        "month":20130601,
+        "Sandfly":66
       },
       {
-        "month":Tick,
-        "sales":74
+        "month":20130701,
+        "Tick":74
       },
       {
-        "month":Mosquito,
-        "sales":78
+        "month":20130801,
+        "Beetle":78
       },
       {
-        "month":Flea,
-        "sales":38
+        "month":20130901,
+        "FireFly":38
       },
       {
-        "month":Mosquito,
-        "sales":30
+        "month":20131001,
+        "Spider":30
       },
       {
-        "month":Tick, Lice,
-        "sales":26
+        "month":20131101,
+        "Ant":26
       },
       {
-        "month":Testy fly,
-        "sales":29
+        "month":20131201,
+        "Roach":29
       }
     ]
   },
   {
-    "category": "Disease",
-    "region": "Africa",
-    "monthlySales":
+    "category": "Geo Location",
+    "region": "GMT",
+    "Disease Increase":
 
       [{
         "month":20130101,
-        "sales":54
+        "Horse":54
       },
       {
         "month":20130201,
-        "sales":66
+        "Babesiosis":66
       },
       {
         "month":20130301,
-        "sales":77
+        "Bluetounge":77
       },
       {
         "month":20130401,
-        "sales":70
+        "Chagas":70
       },
       {
         "month":20130501,
-        "sales":60
+        "Tick-borne":60
       },
       {
         "month":20130601,
-        "sales":63
+        "Heatland Virus":63
       },
       {
         "month":20130701,
-        "sales":55
+        "Leishmaniasis":55
       },
       {
         "month":20130801,
-        "sales":47
+        "Lyme":47
       },
       {
         "month":20130901,
-        "sales":55
+        "Malaria":55
       },
       {
         "month":20131001,
-        "sales":30
+        "Plague":30
       },
       {
         "month":20131101,
-        "sales":22
+        "Pogosta":22
       },
       {
         "month":20131201,
-        "sales":77
+        "Boutonneuse Fever":77
       }
     ]
   }
