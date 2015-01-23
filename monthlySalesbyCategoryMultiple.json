@@ -1,7 +1,6 @@
-
-  { "contents": [
+{ "data": [
   {
-    "category": "Insects Deaths",
+    "category": "Furniture",
     "region": "West",
     "monthlySales":
 
@@ -56,7 +55,7 @@
     ]
   },
   {
-    "category": "Insect Disease",
+    "category": "Technology",
     "region": "West",
     "monthlySales":
 
@@ -110,4 +109,5 @@
       }
     ]
   }
-]}
+]} 
+
