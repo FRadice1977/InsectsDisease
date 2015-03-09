@@ -1,6 +1,6 @@
 { "contents": [
   {
-    "category": "Insects",
+    "category": "Books",
     "region": "West",
     "monthlySales":
 
@@ -55,7 +55,7 @@
     ]
   },
   {
-    "category": "Disease",
+    "category": "Journals",
     "region": "West",
     "monthlySales":
 
