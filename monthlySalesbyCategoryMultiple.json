@@ -2,7 +2,7 @@
   {
     "category": "Insects",
     "region": "West",
-    "monthlySales":
+    "insectsOne":
 
       [{
         "month":20130101,
@@ -57,7 +57,7 @@
   {
     "category": "Disease",
     "region": "West",
-    "monthlySales":
+    "insectsTwo":
 
       [{
         "month":20130101,
