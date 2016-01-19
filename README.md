@@ -1,4 +1,4 @@
-# InsectsDisease
+# Cabi Book Sales
 Insects carrying disease. 
 
 Data relating disease in specific countries carried by insects will be visualised here with a line graph. 
