@@ -1,86 +1,112 @@
-{
-  "http://id.cabi.org/cabt/209311": {
-    "http://purl.org/dc/terms/modified": [
+{ "contents": [
+  {
+    "category": "Books",
+    "region": "West",
+    "monthlySales":
+
+      [{
+        "month":20130101,
+        "sales":38
+      },
       {
-        "value": "2012-08-22",
-        "type": "literal",
-        "datatype": "http://www.w3.org/2001/XMLSchema#string"
+        "month":20130201,
+        "sales":35
+      },
+      {
+        "month":20130301,
+        "sales":41
+      },
+      {
+        "month":20130401,
+        "sales":55
+      },
+      {
+        "month":20130501,
+        "sales":58
+      },
+      {
+        "month":20130601,
+        "sales":66
+      },
+      {
+        "month":20130701,
+        "sales":74
+      },
+      {
+        "month":20130801,
+        "sales":78
+      },
+      {
+        "month":20130901,
+        "sales":38
+      },
+      {
+        "month":20131001,
+        "sales":30
+      },
+      {
+        "month":20131101,
+        "sales":26
+      },
+      {
+        "month":20131201,
+        "sales":29
       }
-    ],
-    "http://id.cabi.org/cabrelations/subjectCategory": [
+    ]
+  },
+  {
+    "category": "Journals",
+    "region": "West",
+    "monthlySales":
+
+      [{
+        "month":20130101,
+        "sales":54
+      },
       {
-        "value": "Organism Names",
-        "type": "literal",
-        "datatype": "http://www.w3.org/2001/XMLSchema#string"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#historyNote": [
+        "month":20130201,
+        "sales":66
+      },
       {
-        "value": "From 2012.",
-        "type": "literal",
-        "lang": "en-gb"
-      }
-    ],
-    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+        "month":20130301,
+        "sales":77
+      },
       {
-        "value": "http://www.w3.org/2004/02/skos/core#Concept",
-        "type": "uri"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#GUID": [
+        "month":20130401,
+        "sales":70
+      },
       {
-        "value": "{D2091EDF-9915-40A4-BF3D-9EF7D3F27FC7}",
-        "type": "literal",
-        "datatype": "http://www.w3.org/2001/XMLSchema#string"
-      }
-    ],
-    "http://id.cabi.org/cabrelations/technicalCategory": [
+        "month":20130501,
+        "sales":60
+      },
       {
-        "value": "Scientific Name - Organisms",
-        "type": "literal",
-        "datatype": "http://www.w3.org/2001/XMLSchema#string"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#altLabel": [
+        "month":20130601,
+        "sales":63
+      },
       {
-        "value": "Nasutitermes voeltzkowi",
-        "type": "literal",
-        "lang": "en-gb"
-      }
-    ],
-    "http://purl.org/dc/terms/created": [
+        "month":20130701,
+        "sales":55
+      },
       {
-        "value": "2012-04-30",
-        "type": "literal",
-        "datatype": "http://www.w3.org/2001/XMLSchema#string"
-      }
-    ],
-    "http://purl.org/dc/terms/dateAccepted": [
+        "month":20130801,
+        "sales":47
+      },
       {
-        "value": "2012-05-01",
-        "type": "literal",
-        "datatype": "http://www.w3.org/2001/XMLSchema#string"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#broader": [
+        "month":20130901,
+        "sales":55
+      },
       {
-        "value": "http://id.cabi.org/cabt/198887",
-        "type": "uri"
-      }
-    ],
-    "http://rs.tdwg.org/dwc/terms/taxonRank": [
+        "month":20131001,
+        "sales":30
+      },
       {
-        "value": "Species",
-        "type": "literal",
-        "datatype": "http://www.w3.org/2001/XMLSchema#string"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+        "month":20131101,
+        "sales":22
+      },
       {
-        "value": "Eutermes voeltzkowi",
-        "type": "literal",
-        "lang": "en-gb"
+        "month":20131201,
+        "sales":77
       }
     ]
   }
-}
+]} 
